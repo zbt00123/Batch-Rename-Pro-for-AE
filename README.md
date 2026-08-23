@@ -1,4 +1,4 @@
-# Batch Rename Pro for After Effects / After Effects 批量重命名 Pro
+# After Effects 批量重命名 Pro
 
 [![License](https://img.shields.io/badge/License-非商用学习-blue.svg)](./LICENSE)
 [![Language](https://img.shields.io/badge/语言-7种语言-green.svg)](#语言支持)
