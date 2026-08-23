@@ -9,6 +9,7 @@
 > **代码**: 完全由 [DeepSeek](https://chat.deepseek.com/) 编写
 
 ---
+[English instructions](https://github.com/zbt00123/Batch-Rename-Pro-for-AE/blob/main/README_EN.md)
 
 ## ✨ 特性
 
