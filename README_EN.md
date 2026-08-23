@@ -102,7 +102,3 @@ If you find any problems or have suggestions for improvement, please open an iss
 
 - Thanks to **DeepSeek** for providing powerful AI coding support.
 - Thanks to all users and testers of this script.
-
----
-
-*Made with ❤️ by ZBT Studio & DeepSeek*
