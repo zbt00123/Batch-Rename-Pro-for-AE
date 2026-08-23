@@ -1,6 +1,6 @@
 # Batch Rename Pro for After Effects
 
-[![License](https://img.shields.io/badge/License-Non-commercial%20Study-blue.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-No%20commercial%20use-blue.svg)](./LICENSE)
 [![Language](https://img.shields.io/badge/Language-7%20Languages-green.svg)](#language-support)
 
 **Batch Rename Pro** is a powerful batch renaming script for Adobe After Effects. It supports items in the Project panel as well as layers in the current composition's timeline, offering four renaming modes: **Format Rename**, **Text Replace**, **Add Sequence**, and **Add Text**. The interface is clean, multilingual, and remembers your settings.
