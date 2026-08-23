@@ -39,7 +39,7 @@
 ## 🚀 Usage
 
 ### Installation
-1. Download the script file `Batch Rename Pro for AE.jsx`.
+1. Go to the [release](https://github.com/zbt00123/Batch-Rename-Pro-for-AE/releases/tag/AE_Scripts) page to download the `Batch Rename Pro for AE.jsx` script file.
 2. Place it in the After Effects script directory:
    - Windows: `C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Scripts\ScriptUI Panels\`
    - macOS: `/Applications/Adobe After Effects <version>/Scripts/ScriptUI Panels/`
