@@ -102,7 +102,3 @@
 
 - 感谢 **DeepSeek** 提供强大的 AI 编码支持。
 - 感谢所有使用和测试本脚本的用户。
-
----
-
-*Made with ❤️ by ZBT Studio & DeepSeek*
