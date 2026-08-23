@@ -39,7 +39,7 @@
 ## 🚀 使用方法
 
 ### 安装
-1. 下载 `Batch Rename Pro for AE.jsx` 脚本文件。
+1. 前往[发布页](https://github.com/zbt00123/Batch-Rename-Pro-for-AE/releases/tag/AE_Scripts)下载 `Batch Rename Pro for AE.jsx` 脚本文件。
 2. 将脚本放置到 After Effects 的脚本目录：
    - Windows: `C:\Program Files\Adobe\Adobe After Effects <版本>\Support Files\Scripts\ScriptUI Panels\`
    - macOS: `/Applications/Adobe After Effects <版本>/Scripts/ScriptUI Panels/`
