@@ -11,6 +11,8 @@
 ---
 [English instructions](https://github.com/zbt00123/Batch-Rename-Pro-for-AE/blob/main/README_EN.md)
 
+<img width="1793" height="584" alt="CN" src="https://github.com/user-attachments/assets/c1789eea-bdff-4424-8448-c27d7335b037" />
+
 ## ✨ 特性
 
 - 🎯 **四种重命名模式**
