@@ -8,6 +8,8 @@
 > **Author**: ZBT Studio  
 > **Code**: Fully written by [DeepSeek](https://chat.deepseek.com/)
 
+<img width="1793" height="584" alt="EN" src="https://github.com/user-attachments/assets/86f3f843-5611-459e-9083-816baa9cee35" />
+
 ---
 
 ## ✨ Features
@@ -93,7 +95,7 @@ For the full license text, please refer to the copyright information inside the 
 
 ## 🤝 Contributions & Feedback
 
-Issues and Pull Requests are welcome at [GitHub](https://github.com/zbt00123/Batch-Rename-Pro-for-AE).  
+[Issues](https://github.com/zbt00123/Batch-Rename-Pro-for-AE/issues) and [Pull Requests](https://github.com/zbt00123/Batch-Rename-Pro-for-AE/pulls) are welcome at GitHub.  
 If you find any problems or have suggestions for improvement, please open an issue in the repository.
 
 ---
